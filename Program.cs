@@ -38,7 +38,7 @@ namespace MaintainRedditStreak
 
             try
             {
-                driver.Navigate().GoToUrl("https://old.reddit.com/");
+                driver.Navigate().GoToUrl("https://old.reddit.com/new/");
 
                 var wait = new WebDriverWait(driver, TimeSpan.FromSeconds(15));
 
