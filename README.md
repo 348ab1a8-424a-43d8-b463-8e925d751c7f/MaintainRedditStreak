@@ -11,7 +11,7 @@
 
 ## Table of Contents
 - [Overview](#overview)
-- [Copyright](#copyright)
+- [License](#license)
 - [Contact](#contact)
 
 ## Overview
